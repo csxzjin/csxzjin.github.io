@@ -38,7 +38,7 @@ Note: * for corresponding author, # for equal contribution.
 
   In Proceedings of the 23rd IEEE International Conference on Data Mining (**ICDM 2023**).
 
-  [Paper]() [Code](https://github.com/downeykking/NSE)
+  [Paper](https://ieeexplore.ieee.org/document/10415768) [Code](https://github.com/downeykking/NSE)
 
 # 📖 Educations
 - **M.E., Sun Yat-sun University.**
@@ -54,6 +54,10 @@ Note: * for corresponding author, # for equal contribution.
 - **Research Intern, Tencent**
 
   2023.07 - now, Data Mining Center.
+
+# 🏆 Competitions
+
+- FinvCup 2022: Fraud User Risk Identification. [[Link](https://ai.ppdai.com/mirror/goToMirrorDetailSix?mirrorId=28&tabindex=2)], 🏅9th place.
 
 # 🎖 Awards
 
