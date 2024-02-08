@@ -57,6 +57,8 @@ Note: * for corresponding author, # for equal contribution.
 
 # 🏆 Competitions
 
+- Ant Group ATEC 2023 online, Track 2: LLM - Tool Learning for Large Language Models. [[Link](https://www.atecup.cn/matchHomeDetails/100001/100002)], 🥇1th place.
+- Ant Group ATEC 2023 online, Track 3: LLM - Detect AI Generated Text. [[Link](https://www.atecup.cn/matchHomeDetails/100001/100003)], 🥇1th place.
 - FinvCup 2022: Fraud User Risk Identification. [[Link](https://ai.ppdai.com/mirror/goToMirrorDetailSix?mirrorId=28&tabindex=2)], 🏅9th place.
 
 # 🎖 Awards
