@@ -24,11 +24,22 @@ My primary research interests lies in Graph Neural Networks, Recommender Systems
 
 
 # 🔥 News
+- *2024.02*: &nbsp;📣📣 Check out our new preprint about [LLM-based text2SQL](https://arxiv.org/abs/2402.10671).
 - *2023.09*: &nbsp;🎉🎉 One paper about graph collaborative filtering is accepted as a full paper at ICDM 2023 (acceptance rate 9.37%).
 
 # 📝 Publications 
 
-Note: * for corresponding author, # for equal contribution.
+Note: * for corresponding author
+
+### Preprint
+
+- **Decomposition for Enhancing Attention: Improving LLM-based Text-to-SQL through Workflow Paradigm**
+
+  Yuanzhen Xie, **Xinzhou Jin**, Tao Xie, MingXiong Lin, Liang Chen, Chenyun Yu, Lei Cheng, ChengXiang Zhuo, Bo Hu, Zang Li
+
+  arXiv, 2024.
+
+  [Paper](https://arxiv.org/abs/2402.10671) [Code](https://github.com/FlyingFeather/DEA-SQL)
 
 ### 2023
 
