@@ -27,7 +27,6 @@ author:
   employer         :
   pubmed           : 
   # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "downeykking@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -38,6 +37,7 @@ author:
   facebook         :
   foursquare       :
   github           : "downeykking"
+  googlescholar    : "https://scholar.google.com/citations?user=CFJGDtAAAAAJ&hl=en"
   google_plus      :
   keybase          :
   instagram        :
