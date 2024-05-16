@@ -20,24 +20,25 @@ redirect_from:
 I'm currently a second year graduate student from [Sun Yat-sun University](https://www.sysu.edu.cn) under the supervision of [Prof. Liang Chen](https://chenliang.tech).
 I obtained my Bachelor's degree from [South China University of Technology](https://www.scut.edu.cn/), advised by [Prof. Xiaowei Yang](https://www2.scut.edu.cn/sse/2018/0615/c16788a270764/page.htm).
 
-My primary research interests lies in Graph Neural Networks, Recommender Systems. I'm also interested in Large Language Models and its applications.
+My primary research interests lie in Graph Neural Networks, Recommender Systems. I'm also interested in Large Language Models and its applications.
 
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉🎉 One paper about LLM-based text2SQL is accepted as Findings of ACL 2024. 
 - *2024.02*: &nbsp;📣📣 Check out our new preprint about [LLM-based text2SQL](https://arxiv.org/abs/2402.10671).
 - *2023.09*: &nbsp;🎉🎉 One paper about graph collaborative filtering is accepted as a full paper at ICDM 2023 (acceptance rate 9.37%).
 
-# 📝 Publications 
+# 📝 Publications
 
 Note: * for corresponding author
 
-### Preprint
+### 2024
 
 - **Decomposition for Enhancing Attention: Improving LLM-based Text-to-SQL through Workflow Paradigm**
 
   Yuanzhen Xie, **Xinzhou Jin**, Tao Xie, MingXiong Lin, Liang Chen, Chenyun Yu, Lei Cheng, ChengXiang Zhuo, Bo Hu, Zang Li
 
-  arXiv, 2024.
+  In the 62nd Annual Meeting of the Association for Computational Linguistics (**Findings of ACL 2024**).
 
   [Paper](https://arxiv.org/abs/2402.10671) [Code](https://github.com/FlyingFeather/DEA-SQL)
 
@@ -62,9 +63,15 @@ Note: * for corresponding author
 
 
 # 💻 Experiences
-- **Research Intern, Tencent**
+- **Research Engineer Intern, Tencent Music Entertainment**.
 
-  2023.07 - now, Data Mining Center.
+  2024.05 - now, QQ Music.
+  
+- **Research Intern, Tencent**.
+
+  2023.07 - 2024.04, Data Mining Center.
+
+
 
 # 🏆 Competitions
 
