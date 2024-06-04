@@ -38,7 +38,7 @@ Note: * for corresponding author
 
   Yuanzhen Xie, Chenyun Yu, **Xinzhou Jin**, Lei Cheng, Bo Hu, Zang Li
 
-  **Knowledge-Based Systems**
+  Knowledge-Based Systems (**KBS 2024**).
 
   [Paper](./) [Code](./)
 
