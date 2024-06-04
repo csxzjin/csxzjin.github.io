@@ -24,8 +24,8 @@ My primary research interests lie in Graph Neural Networks, Recommender Systems.
 
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 One paper about cross-domain recommendation is accepted by Knowledge-Based Systems. 
 - *2024.05*: &nbsp;🎉🎉 One paper about LLM-based text2SQL is accepted as Findings of ACL 2024. 
-- *2024.02*: &nbsp;📣📣 Check out our new preprint about [LLM-based text2SQL](https://arxiv.org/abs/2402.10671).
 - *2023.09*: &nbsp;🎉🎉 One paper about graph collaborative filtering is accepted as a full paper at ICDM 2023 (acceptance rate 9.37%).
 
 # 📝 Publications
@@ -33,6 +33,15 @@ My primary research interests lie in Graph Neural Networks, Recommender Systems.
 Note: * for corresponding author
 
 ### 2024
+
+- **Heterogeneous Graph Contrastive Learning for Cold Start Cross-domain Recommendation**
+
+  Yuanzhen Xie, Chenyun Yu, **Xinzhou Jin**, Lei Cheng, Bo Hu, Zang Li
+
+  Knowledge-Based Systems
+
+  [Paper](./) [Code](./)
+
 
 - **Decomposition for Enhancing Attention: Improving LLM-based Text-to-SQL through Workflow Paradigm**
 
