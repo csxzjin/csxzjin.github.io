@@ -38,10 +38,9 @@ Note: * for corresponding author
 
   Yuanzhen Xie, Chenyun Yu, **Xinzhou Jin**, Lei Cheng, Bo Hu, Zang Li
 
-  Knowledge-Based Systems
+  **Knowledge-Based Systems**
 
   [Paper](./) [Code](./)
-
 
 - **Decomposition for Enhancing Attention: Improving LLM-based Text-to-SQL through Workflow Paradigm**
 
