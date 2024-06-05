@@ -24,13 +24,24 @@ My primary research interests lie in Graph Neural Networks, Recommender Systems.
 
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 One paper about cross-domain recommendation is accepted by Knowledge-Based Systems. 
-- *2024.05*: &nbsp;🎉🎉 One paper about LLM-based text2SQL is accepted as Findings of ACL 2024. 
+- *2024.06*: &nbsp;📣📣 Check out our new preprint about [state space models on temporal graphs](https://arxiv.org/abs/2406.00943).
+- *2024.06*: &nbsp;🎉🎉 One paper about cross-domain recommendation is accepted by Knowledge-Based Systems.
+- *2024.05*: &nbsp;🎉🎉 One paper about LLM-based text2SQL is accepted as Findings of ACL 2024.
 - *2023.09*: &nbsp;🎉🎉 One paper about graph collaborative filtering is accepted as a full paper at ICDM 2023 (acceptance rate 9.37%).
 
 # 📝 Publications
 
 Note: * for corresponding author
+
+### Preprint
+
+- **State Space Models on Temporal Graphs: A First-Principles Study**
+
+  Jintang Li, Ruofan Wu, **Xinzhou Jin**, Boqun Ma, Liang Chen, Zibin Zheng
+
+  arXiv, 2024.
+
+  [[Paper]](https://arxiv.org/abs/2406.00943) [[Code]](https://github.com/EdisonLeeeee/GraphSSM)
 
 ### 2024
 
@@ -40,7 +51,7 @@ Note: * for corresponding author
 
   Knowledge-Based Systems (**KBS 2024**).
 
-  [Paper](./) [Code](./)
+  [[Paper]](./) [[Code]](./)
 
 - **Decomposition for Enhancing Attention: Improving LLM-based Text-to-SQL through Workflow Paradigm**
 
@@ -48,7 +59,7 @@ Note: * for corresponding author
 
   In the 62nd Annual Meeting of the Association for Computational Linguistics (**Findings of ACL 2024**).
 
-  [Paper](https://arxiv.org/abs/2402.10671) [Code](https://github.com/FlyingFeather/DEA-SQL)
+  [[Paper]](https://arxiv.org/abs/2402.10671) [[Code]](https://github.com/FlyingFeather/DEA-SQL)
 
 ### 2023
 
@@ -58,7 +69,7 @@ Note: * for corresponding author
 
   In Proceedings of the 23rd IEEE International Conference on Data Mining (**ICDM 2023**).
 
-  [Paper](https://ieeexplore.ieee.org/document/10415768) [Code](https://github.com/downeykking/NSE)
+  [[Paper]](https://ieeexplore.ieee.org/document/10415768) [[Code]](https://github.com/downeykking/NSE)
 
 # 📖 Educations
 - **M.E., Sun Yat-sun University.**
