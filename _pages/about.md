@@ -94,11 +94,14 @@ Note: * for corresponding author
 
 # 🏆 Competitions
 
+- KDD Cup 2024: OAG-Challenge Academic Question Answering [[Link](https://www.biendata.xyz/competition/aqa_kdd_2024)], 🏅9th place.
 - Ant Group ATEC 2023 online, Track 2: LLM - Tool Learning for Large Language Models. [[Link](https://www.atecup.cn/matchHomeDetails/100001/100002)], 🥇1th place.
 - Ant Group ATEC 2023 online, Track 3: LLM - Detect AI Generated Text. [[Link](https://www.atecup.cn/matchHomeDetails/100001/100003)], 🥇1th place.
 - FinvCup 2022: Fraud User Risk Identification. [[Link](https://ai.ppdai.com/mirror/goToMirrorDetailSix?mirrorId=28&tabindex=2)], 🏅9th place.
 
 # 🎖 Awards
 
+- 2023.10, First-class scholarship of Sun Yat-sun University.
+- 2022.10, Second-class scholarship of Sun Yat-sun University.
 - 2021.10, First-class scholarship of South China University of Technology.
 
