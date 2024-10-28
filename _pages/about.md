@@ -24,7 +24,7 @@ My primary research interests lie in Graph Neural Networks, Recommender Systems.
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 One paper about about state space models on temporal graphs is accepted by Knowledge-Based Systems..
+- *2024.10*: &nbsp;🎉🎉 One paper about about state space models on temporal graphs is accepted by NeurIPS 2024.
 - *2024.06*: &nbsp;🎉🎉 One paper about cross-domain recommendation is accepted by Knowledge-Based Systems.
 - *2024.05*: &nbsp;🎉🎉 One paper about LLM-based text2SQL is accepted as Findings of ACL 2024.
 - *2023.09*: &nbsp;🎉🎉 One paper about graph collaborative filtering is accepted as a full paper at ICDM 2023 (acceptance rate 9.37%).
