@@ -24,7 +24,7 @@ My primary research interests lie in Graph Neural Networks, Recommender Systems.
 
 
 # 🔥 News
-- *2024.06*: &nbsp;📣📣 Check out our new preprint about [state space models on temporal graphs](https://arxiv.org/abs/2406.00943).
+- *2024.10*: &nbsp;🎉🎉 One paper about about state space models on temporal graphs is accepted by Knowledge-Based Systems..
 - *2024.06*: &nbsp;🎉🎉 One paper about cross-domain recommendation is accepted by Knowledge-Based Systems.
 - *2024.05*: &nbsp;🎉🎉 One paper about LLM-based text2SQL is accepted as Findings of ACL 2024.
 - *2023.09*: &nbsp;🎉🎉 One paper about graph collaborative filtering is accepted as a full paper at ICDM 2023 (acceptance rate 9.37%).
@@ -35,15 +35,23 @@ Note: * for corresponding author
 
 ### Preprint
 
+- **L^2CL: Embarrassingly Simple Layer-to-Layer Contrastive Learning for Graph Collaborative Filtering**
+
+  **Xinzhou Jin**, Jintang Li, Liang Chen, Chenyun Yu, Yuanzhen Xie, Tao Xie, Chengxiang Zhuo, Zang Li, Zibin Zheng
+
+  arXiv, 2024.
+
+  [[Paper]](https://arxiv.org/abs/2407.14266) [[Code]](https://github.com/downeykking/L2CL)
+
+### 2024
+
 - **State Space Models on Temporal Graphs: A First-Principles Study**
 
   Jintang Li, Ruofan Wu, **Xinzhou Jin**, Boqun Ma, Liang Chen, Zibin Zheng
 
-  arXiv, 2024.
+  In Proceedings of the Thirty-eighth Annual Conference on Neural Information Processing (**NeurIPS 2024**).
 
   [[Paper]](https://arxiv.org/abs/2406.00943) [[Code]](https://github.com/EdisonLeeeee/GraphSSM)
-
-### 2024
 
 - **Heterogeneous Graph Contrastive Learning for Cold Start Cross-domain Recommendation**
 
@@ -84,7 +92,7 @@ Note: * for corresponding author
 # 💻 Experiences
 - **Research Engineer Intern, Tencent Music Entertainment**.
 
-  2024.05 - now, QQ Music.
+  2024.05 - 2024.08, QQ Music.
   
 - **Research Intern, Tencent**.
 
@@ -101,7 +109,7 @@ Note: * for corresponding author
 
 # 🎖 Awards
 
-- 2023.10, First-class scholarship of Sun Yat-sun University.
+- 2023 & 2024.10, First-class scholarship of Sun Yat-sun University.
 - 2022.10, Second-class scholarship of Sun Yat-sun University.
 - 2021.10, First-class scholarship of South China University of Technology.
 
